@@ -12,7 +12,7 @@ Contents:
     - Interests
 - Contact
 
-------------------------------------------------------------------------------------------------------
+
 Brynn Morrow
 
 LinkedIn: brynnmorrow
