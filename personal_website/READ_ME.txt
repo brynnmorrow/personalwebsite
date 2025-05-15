@@ -11,3 +11,18 @@ Contents:
         - Previous Classes
     - Interests
 - Contact
+
+------------------------------------------------------------------------------------------------------
+Brynn Morrow
+
+LinkedIn: brynnmorrow
+
+Education:
+    University of Minnesota - Twin Cities
+    Bachelor of Science in Computer Science
+    Relevant Coursework:
+        - Python
+        - Programming Concepts
+        - Machine Architecture & Organization
+        - Algorithms & Data Structures
+        - Program Design & Development
